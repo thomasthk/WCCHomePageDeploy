@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://wisdom-consultancy-hk.com/blog</id>
+    <title>Wisdom Consultancy Company Blog</title>
+    <updated>2021-07-29T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://wisdom-consultancy-hk.com/blog"/>
+    <subtitle>Wisdom Consultancy Company Blog</subtitle>
+    <icon>https://wisdom-consultancy-hk.com/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Welcome!]]></title>
+        <id>welcome</id>
+        <link href="https://wisdom-consultancy-hk.com/blog/welcome"/>
+        <updated>2021-07-29T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to the Wisdom Consultancy Company blog!]]></summary>
+        <content type="html"><![CDATA[<h3>Welcome to the <strong>Wisdom Consultancy Company</strong> blog!</h3><h3>Motivation</h3><p>Please stay tuned for future news!</p>]]></content>
+        <author>
+            <name>Thomas</name>
+        </author>
+    </entry>
+</feed>

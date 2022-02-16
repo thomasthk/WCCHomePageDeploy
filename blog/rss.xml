@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Wisdom Consultancy Company Blog</title>
+        <link>https://wisdom-consultancy-hk.com/blog</link>
+        <description>Wisdom Consultancy Company Blog</description>
+        <lastBuildDate>Thu, 29 Jul 2021 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Welcome!]]></title>
+            <link>https://wisdom-consultancy-hk.com/blog/welcome</link>
+            <guid>welcome</guid>
+            <pubDate>Thu, 29 Jul 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Welcome to the Wisdom Consultancy Company blog!]]></description>
+            <content:encoded><![CDATA[<h3>Welcome to the <strong>Wisdom Consultancy Company</strong> blog!</h3><h3>Motivation</h3><p>Please stay tuned for future news!</p>]]></content:encoded>
+        </item>
+    </channel>
+</rss>
